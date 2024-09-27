@@ -1,4 +1,7 @@
 import java.util.*;
+//it works better and superb, when n=5
+//n=5, you get superb heart shape pattern(recommended)
+
 public class heart_pattern{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
