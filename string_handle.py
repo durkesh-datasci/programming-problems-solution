@@ -1,3 +1,4 @@
+#hello this is a string handling program
 string = input("Enter the string: ")
 char = input("Enter the character: ")
 first_occurrence = string.find(char)
